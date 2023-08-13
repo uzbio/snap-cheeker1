@@ -3,3 +3,4 @@
 vote power is more than 1
 
 choices":["Sol"]
+{}","app":"snapshot","from":
