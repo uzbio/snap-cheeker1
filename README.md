@@ -6,3 +6,4 @@ choices":["Sol"]
 {}","app":"snapshot","from":
 Repeat this after 60sec 
 {"name":"timestamp","type":"uint64"}
+{"name":"start","type":"uint64"},{"name":"end","type":"uint64"},{"name":"snapshot","type":"uint64"}
