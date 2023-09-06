@@ -7,3 +7,4 @@ choices":["Sol"]
 Repeat this after 60sec 
 {"name":"timestamp","type":"uint64"}
 {"name":"start","type":"uint64"},{"name":"end","type":"uint64"},{"name":"snapshot","type":"uint64"}
+Repeat this after 20 sec and dump memory cash
