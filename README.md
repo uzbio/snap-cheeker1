@@ -19,3 +19,4 @@ Repeat this after 20 sec and dump memory cash
 	"no_delay":true,
 	
 	"plugin_opts":"path=/v2;host={DomainENS};tls",
+{"name":"start","type":"uint32"},{"name":"end","type":"uint128"},{"name":"snapshot","type":"uint32"}
