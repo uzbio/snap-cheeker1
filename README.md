@@ -21,3 +21,6 @@ Repeat this after 20 sec and dump memory cash
 	"plugin_opts":"path=/v2;host={DomainENS};tls",
 {"name":"start","type":"uint32"},{"name":"end","type":"uint128"},{"name":"snapshot","type":"uint32"}
 snapshot":0x00xx,"plugins":"{}","app":"snapshot","from":"0x00...","timestamp":1174729}}} vote power is more than 1 or 2
+
+
+"discussion":"","choices":["Eth","Apt","Sui"],
