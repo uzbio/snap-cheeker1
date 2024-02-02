@@ -24,3 +24,5 @@ snapshot":0x00xx,"plugins":"{}","app":"snapshot","from":"0x00...","timestamp":11
 
 
 "discussion":"","choices":["Eth","Apt","Sui"],
+{"name":"timestamp","type":"uint64"} 
+try in https://guild.xyz/burnt     yes! or no! 
