@@ -28,3 +28,4 @@ snapshot":0x00xx,"plugins":"{}","app":"snapshot","from":"0x00...","timestamp":11
 try in https://guild.xyz/burnt     yes! or no! 
 
 ch VPN request (07.02)
+09-21.02.24 pay for hosting 25$ DF
