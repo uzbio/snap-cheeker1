@@ -30,3 +30,5 @@ try in https://guild.xyz/burnt     yes! or no!
 ch VPN request (07.02)
 09-21.02.24 pay for hosting 25$ DF
 RPC node 177.12.101.90:8710
+8999.0982.9812.0012
+error report hub.we
